@@ -4,13 +4,13 @@ class Solution {
 
 String[] words = s.split("\\s+");
 
-StringBuilder sb = new StringBuilder();
+String sb = "";
 
 for(int i = words.length - 1; i >= 0; i--){
-    sb.append(words[i]);
+    sb += words[i];
 
     if(i != 0)
-        sb.append(" ");
+        sb+=" ";
 }
 
 return sb.toString();
