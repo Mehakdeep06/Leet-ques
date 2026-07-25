@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Mehakdeep06/Leet-ques/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mehakdeep06/Leet-ques/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Mehakdeep06/Leet-ques/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Mehakdeep06/Leet-ques/tree/master/0455-assign-cookies) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mehakdeep06/Leet-ques/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
