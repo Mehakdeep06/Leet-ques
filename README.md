@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mehakdeep06/Leet-ques/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Mehakdeep06/Leet-ques/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakdeep06/Leet-ques/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Mehakdeep06/Leet-ques/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Mehakdeep06/Leet-ques/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakdeep06/Leet-ques/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Mehakdeep06/Leet-ques/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mehakdeep06/Leet-ques/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mehakdeep06/Leet-ques/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mehakdeep06/Leet-ques/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
