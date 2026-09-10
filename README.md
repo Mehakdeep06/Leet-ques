@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Mehakdeep06/Leet-ques/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/Mehakdeep06/Leet-ques/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakdeep06/Leet-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mehakdeep06/Leet-ques/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakdeep06/Leet-ques/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mehakdeep06/Leet-ques/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Mehakdeep06/Leet-ques/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mehakdeep06/Leet-ques/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Mehakdeep06/Leet-ques/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
