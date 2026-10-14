@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mehakdeep06/Leet-ques/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakdeep06/Leet-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mehakdeep06/Leet-ques/tree/master/0877-stone-game) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mehakdeep06/Leet-ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -113,9 +114,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mehakdeep06/Leet-ques/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/0206-reverse-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mehakdeep06/Leet-ques/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
