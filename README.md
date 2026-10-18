@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehakdeep06/Leet-ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mehakdeep06/Leet-ques/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mehakdeep06/Leet-ques/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Mehakdeep06/Leet-ques/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Mehakdeep06/Leet-ques/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mehakdeep06/Leet-ques/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mehakdeep06/Leet-ques/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehakdeep06/Leet-ques/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Mehakdeep06/Leet-ques/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Mehakdeep06/Leet-ques/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/Mehakdeep06/Leet-ques/tree/master/0551-student-attendance-record-i) |
 ## Greedy
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Mehakdeep06/Leet-ques/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Mehakdeep06/Leet-ques/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
