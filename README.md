@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mehakdeep06/Leet-ques/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mehakdeep06/Leet-ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Mehakdeep06/Leet-ques/tree/master/0023-merge-k-sorted-lists) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mehakdeep06/Leet-ques/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mehakdeep06/Leet-ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mehakdeep06/Leet-ques/tree/master/0203-remove-linked-list-elements) |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/1019-next-greater-node-in-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mehakdeep06/Leet-ques/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mehakdeep06/Leet-ques/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
