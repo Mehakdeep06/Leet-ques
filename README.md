@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mehakdeep06/Leet-ques/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Mehakdeep06/Leet-ques/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Mehakdeep06/Leet-ques/tree/master/0412-fizz-buzz) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mehakdeep06/Leet-ques/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Mehakdeep06/Leet-ques/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
