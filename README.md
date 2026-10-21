@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mehakdeep06/Leet-ques/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Mehakdeep06/Leet-ques/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakdeep06/Leet-ques/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/Mehakdeep06/Leet-ques/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/Mehakdeep06/Leet-ques/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mehakdeep06/Leet-ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mehakdeep06/Leet-ques/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mehakdeep06/Leet-ques/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mehakdeep06/Leet-ques/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0705-design-hashset](https://github.com/Mehakdeep06/Leet-ques/tree/master/0705-design-hashset) |
 | [3731-find-missing-elements](https://github.com/Mehakdeep06/Leet-ques/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mehakdeep06/Leet-ques/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/Mehakdeep06/Leet-ques/tree/master/0705-design-hashset) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mehakdeep06/Leet-ques/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mehakdeep06/Leet-ques/tree/master/0029-divide-two-integers) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Mehakdeep06/Leet-ques/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Mehakdeep06/Leet-ques/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
